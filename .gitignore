@@ -1,0 +1,5 @@
+#Cake
+
+# Build related
+tools/**
+!tools/packages.config
