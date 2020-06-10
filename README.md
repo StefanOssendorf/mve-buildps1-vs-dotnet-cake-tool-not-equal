@@ -3,4 +3,4 @@ This is a minimal working example to show the difference between the `build.ps1`
 
 Pinning of the cake version does not make any difference for the `build.ps1` apporach but I pinned it anyway. This also happens with 0.38.1.
 
-![Example output](./Powershell output.PNG)
+![Example output](https://github.com/StefanOssendorf/mwe-buildps1-vs-dotnet-cake-tool-not-equal/blob/master/Powershell%20output.PNG)
